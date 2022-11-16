@@ -16,3 +16,10 @@ git config --lobal user.name <ваше имя>
 git config --lobal user.email <почта вашего аккаунта>
 
 ## Важные команды
+git add <название файла (index.html)> .\README.md
+git commit -m "Создан проект"
+
+## Когда есть учётная запись в облаке
+-gitHub
+-bitBucket
+-gitLab
